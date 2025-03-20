@@ -27,15 +27,6 @@ Morse Code Translator is a Java-based application that allows users to convert *
 2. The program **splits Morse sequences** by spaces and translates them back to characters.
 3. The decoded text is displayed or saved.
 
-## 📂 Project Structure
-```
-MorseCodeTranslator/
-│── src/
-│   ├── MorseCodeTranslator.java  # Main Java Program
-│── translations/
-│   ├── saved_morse.txt           # Optional File Storage
-│── README.md
-```
 
 ## 📜 Usage Instructions
 ### 1️⃣ Running the Program
