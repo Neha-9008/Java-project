@@ -1,14 +1,13 @@
 # Java Projects
 
 ## 📌 Overview
-This repository contains various **Core Java projects**, covering different programming concepts such as **file handling, encryption, steganography, data encoding, and text processing**. Each project is self-contained and can be executed in **VS Code or any Java-supported IDE**.
+This repository contains **Core Java projects**, demonstrating concepts like **file handling, encryption, steganography, data encoding, and text processing**. Each project is self-contained and can be executed in **VS Code or any Java-supported IDE**.
 
 ## 📂 Project Structure
 ```
-Java-Projects/
+Java-project/
 │── InvisibleInkSteganography/   # Hide messages using zero-width characters
 │── MorseCodeTranslator/         # Encode/decode text using Morse code
-│── OtherProjects/               # Additional Java projects
 │── README.md                    # This file
 ```
 
@@ -33,8 +32,8 @@ Java-Projects/
 ## 📜 How to Run a Project
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/Java-Projects.git
-   cd Java-Projects
+   git clone https://github.com/Neha-9008/Java-project.git
+   cd Java-project
    ```
 2. **Compile and Run a Project:**
    ```sh
@@ -44,7 +43,7 @@ Java-Projects/
    ```
 
 ## 🤝 Contributing
-Feel free to contribute by adding new Java projects, improving existing code, or enhancing documentation. Fork the repo, make changes, and submit a pull request!
+Feel free to contribute by improving existing code or enhancing documentation. Fork the repo, make changes, and submit a pull request!
 
 ## 📜 License
 This repository is open-source and available under the **MIT License**.
