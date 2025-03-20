@@ -29,15 +29,7 @@ Invisible Ink (Text Steganography) is a Java-based project that hides secret mes
 3. The message is **decrypted** (Caesar Cipher Shift-3) to reveal the original secret message.
 4. The decoded message is displayed.
 
-## 📂 Project Structure
-```
-InvisibleInkSteganography/
-│── src/
-│   ├── AdvancedInvisibleInk.java  # Main Java Program
-│── encoded_messages/
-│   ├── secret_message.txt         # Optional File Storage
-│── README.md
-```
+
 
 ## 📜 Usage Instructions
 ### 1️⃣ Running the Program
